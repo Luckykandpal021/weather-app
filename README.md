@@ -40,6 +40,9 @@ flutter_dotenv: For loading environment variables from a .env file.
 ## Screenshots:-
 
 ![WhatsApp Image 2024-07-01 at 8 33 14 PM](https://github.com/Luckykandpal021/weather-app/assets/113090261/ecf64576-2523-49a2-9d5e-7b4ec5160515)
+![WhatsApp Image 2024-07-01 at 8 33 18 PM](https://github.com/Luckykandpal021/weather-app/assets/113090261/1ee9a7ab-ff8f-43a5-af07-91d09b236809)
+![WhatsApp Image 2024-07-01 at 8 33 18 PM (1)](https://github.com/Luckykandpal021/weather-app/assets/113090261/8904d11b-e583-47ff-ba69-64981f9a6dad)
+![WhatsApp Image 2024-07-01 at 8 33 18 PM (2)](https://github.com/Luckykandpal021/weather-app/assets/113090261/ed549ed1-de19-42d2-a4a9-73cd9eb27d8f)
 
 
 ##  Project Structure
