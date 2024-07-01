@@ -37,6 +37,10 @@ http: For making HTTP requests to fetch weather data.
 provider: For state management and dependency injection.
 flutter_dotenv: For loading environment variables from a .env file.
 
+## Screenshots:-
+
+![WhatsApp Image 2024-07-01 at 8 33 14 PM](https://github.com/Luckykandpal021/weather-app/assets/113090261/ecf64576-2523-49a2-9d5e-7b4ec5160515)
+
 
 ##  Project Structure
 lib/main.dart: Entry point of the application.
